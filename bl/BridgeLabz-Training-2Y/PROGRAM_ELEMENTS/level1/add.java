@@ -1,8 +1,9 @@
-public class add {
+public class Addition {
     public static void main(String[] args) {
-        int a = 5;
-        int b = 10;
-        int sum = a + b;
-        System.out.println("The sum of " + a + " and " + b + " is: " + sum);
+        int num1 = 10;
+        int num2 = 25;
+        int sum = num1 + num2;
+        System.out.println("The sum is: " + sum);
     }
 }
+
